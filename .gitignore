@@ -4,3 +4,7 @@ ansible.cfg
 *.swp
 *.pyc
 *.retry
+
+### Intellij ###
+.idea/
+*.iml
