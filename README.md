@@ -73,4 +73,6 @@ BSD
 Author Information
 ------------------
 
-David Wittman
+Steamulo - www.steamulo.com
+
+Forked from [David Wittman](https://github.com/DavidWittman)
